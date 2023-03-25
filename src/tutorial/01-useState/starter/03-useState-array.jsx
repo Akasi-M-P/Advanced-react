@@ -43,6 +43,6 @@ const UseStateArray = () => {
       </button>
     </div>
   );
-};
+}; 
 
 export default UseStateArray;
