@@ -1152,7 +1152,7 @@ export default ShortCircuitOverview;
 #### Short Circuit Evaluation in React - Common Approaches
 
 ```js
-import Starter from './tutorial/03-conditional-rendering/starter/05-short-circuit-examples.jsx';
+
 ```
 
 Vanilla JS (Optional)

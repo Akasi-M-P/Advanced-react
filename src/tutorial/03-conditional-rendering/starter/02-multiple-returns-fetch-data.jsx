@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const url = "https://api.github.com/users/DavidRoberts";
+const url = "https://api.github.com/users/davidproberts";
 
 const MultipleReturnsFetchData = () => {
   // convention to setup booleans with isSomething
